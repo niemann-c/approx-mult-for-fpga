@@ -1,4 +1,4 @@
-#Approximate Multipliers for Optimal Utilization of FPGA Resources
+# Approximate Multipliers for Optimal Utilization of FPGA Resources
 
 These are the Sources for the approximate multiplier proposed in "Approximate Multipliers for Optimal Utilization of FPGA Resources" by Christoph Niemann et al., published on DDECS2021 Conference.
 Link to publication on IEEE: https://ieeexplore.ieee.org/document/9417027 
