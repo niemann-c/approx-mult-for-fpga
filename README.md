@@ -4,6 +4,8 @@ These are the Sources for the approximate multiplier proposed in "Approximate Mu
 Link to publication on IEEE: https://ieeexplore.ieee.org/document/9417027 
 Please cite this publication, if you use any of the sources. 
 
+For questions, hints or discussions please contact me: christoph.niemann@uni-rostock.de  
+
 List of Files:
 |File|Description|
 |-----|----|
